@@ -11,10 +11,11 @@
   padding: 10px;
 }
 
-.text {
+/* .text {
   font-size: 20px;
-}
+} */
 
 .heading {
   color: white;
+	font:20px;
 }
