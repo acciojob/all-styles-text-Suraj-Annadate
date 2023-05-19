@@ -1,11 +1,20 @@
+/* styles.css */
+.container {
+  width: 200px;
+  background-color: purple;
+}
 
-/* Your CSS Code here. */
-.main{
-	border-left-width:200px;
-	background:purple;
-	border-left-color:green;
-	padding:10px;
-	font:20px;
-	color:white;
-	
+.left {
+  border-color: green;
+  border-width: 0px 0px 0px 5px ;
+  border-style: solid;
+  padding: 10px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.heading {
+  color: white;
 }
