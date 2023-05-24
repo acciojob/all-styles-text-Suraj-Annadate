@@ -1,23 +1,19 @@
 /* styles.css */
-.main{
+/* .main{
 	padding:10px;
-}
+} */
 .container {
   width: 200px;
   background-color: purple;
 	font-size:20px;
 }
 
-.left {
+.main {
   border-color: green;
   border-width: 0px 0px 0px 5px ;
   border-style: solid;
   padding: 10px;
 }
-
-/* .text {
-  font-size: 20px;
-} */
 
 .heading {
   color: white;
